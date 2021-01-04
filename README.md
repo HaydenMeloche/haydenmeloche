@@ -1,6 +1,6 @@
 ### Hi, I'm Hayden. 👋
 
-I'm a Full-Stack Developer working at RBC currently working in the payments space. Outside of work, I keep myself busy building [small utility scripts](https://github.com/HaydenMeloche/thermostat-scheduler), contributing to [open source projects](https://github.com/assertj/assertj-core/pull/1902) and maintaining one of the [largest mods available for Rocket League](https://bakkesplugins.com/plugins/view/108).
+I'm a Full-Stack Developer working at RBC currently working within the payments space. Outside of work, I keep myself busy building [small utility scripts](https://github.com/HaydenMeloche/thermostat-scheduler), contributing to [open source projects](https://github.com/assertj/assertj-core/pull/1902) and maintaining one of the [largest mods available for Rocket League](https://bakkesplugins.com/plugins/view/108).
 
 ```kotlin
 val me = Developer().apply {
