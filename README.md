@@ -6,7 +6,7 @@ I'm a Full-Stack Developer working at RBC currently working within the payments 
 val me = Developer().apply {
     name = "Hayden Meloche"
     speaks = arrayOf("Java", "Kotlin", "Typescript", "Python", "Javascript")
-    usesDaily = arrayOf("Git", "GitHub", "Spring Boot", "Maven", "NPM", "OpenApi Spec", "Docker", "Mockito")
+    usesDaily = arrayOf("Git", "GitHub", "Spring Boot", "Maven", "NPM", "OpenApi Spec", "Docker", "IntelliJ", "AssertJ", "Mockito")
     experienceIn = arrayOf("building scaleable systems", "microservices", "public speaking", "devops", "CI/CD", "agile development", "advanced design patterns")
     interests = arrayOf("tech", "basketball", "collecting watches", "ben and jerry's")
 }
