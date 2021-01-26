@@ -8,7 +8,7 @@ val me = Developer().apply {
     speaks = arrayOf("Java", "Kotlin", "Typescript", "Python", "Javascript")
     usesDaily = arrayOf("Git", "GitHub", "Spring Boot", "Maven", "NPM", "OpenApi Spec", "Docker", "IntelliJ", "AssertJ", "Mockito")
     experienceIn = arrayOf("building scaleable systems", "microservices", "public speaking", "devops", "CI/CD", "agile development", "advanced design patterns")
-    interests = arrayOf("tech", "basketball", "collecting watches", "ben and jerry's")
+    interests = arrayOf("technology", "PC building", "basketball", "ben and jerry's")
 }
 ```
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/HaydenMeloche)
