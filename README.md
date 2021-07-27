@@ -6,7 +6,7 @@ I'm a Founding Engineer @ [Pine](http://pine.ca) building the future of Canadian
 val me = Developer().apply {
     name = "Hayden Meloche"
     speaks = mutableSetOf("Java", "Kotlin", "Typescript", "Python", "Javascript")
-    usesDaily = mutableSetOf("Git", "GitHub", "Spring Boot", "Maven", "NPM", "OpenApi Spec", "Docker", "IntelliJ", "AssertJ", "Mockito")
+    usesDaily = mutableSetOf("Git", "GitHub", "Quarkus", "Spring Boot", "Maven", "NPM", "OpenApi Spec", "Docker", "IntelliJ", "AssertJ", "Mockito")
     experienceIn = mutableSetOf("building scaleable systems", "microservices", "public speaking", "devops", "CI/CD", "agile development", "design patterns")
     interests = mutableSetOf("keyboards", "PC building", "basketball", "watches", "ben and jerry's")
 }
