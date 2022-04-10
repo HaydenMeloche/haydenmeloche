@@ -1,6 +1,21 @@
 ### Hi, I'm Hayden. 👋
 
-I'm a Founding Engineer @ [Pine](http://pine.ca) building the future of Canadian mortgage lending. Outside of work, I keep myself busy building [small utility scripts](https://github.com/HaydenMeloche/thermostat-scheduler), contributing to [open source projects](https://github.com/assertj/assertj-core/pull/1902) and maintaining one of the [largest mods available for Rocket League](https://bakkesplugins.com/plugins/view/108).
+<p><em>Founding Engineer @ <a href="https://www.pine.ca">Pine 🌲</a></em></p>
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hayden-meloche/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:meloche.hayden@gmail.com)
+[![Linkedin: Hayden Meloche](https://img.shields.io/badge/-HaydenMeloche-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/HaydenMeloche/)](https://www.linkedin.com/in/HaydenMeloche/)
+[![GitHub Thaiane](https://img.shields.io/github/followers/HaydenMeloche?label=follow&style=social)](https://github.com/HaydenMeloche)
+
+```kotlin
+
+val me = Developer().apply {
+  name = "Hayden Meloche"
+  currentRole = "Founding Engineer"
+  bio = "I'm a passionate software engineer who loves to code and constantly be learning."
+    + "I work at Pine, where I joined as the first employee and am getting the chance to help build something new from nothing."
+      + "I mostly working within the Kotlin ecosytem, but have been getting into Go recently."
+  favouriteLanguages = mutableSetOf("Kotlin", "Java", "C#", "Typescript")
+  favouriteTools = mutableSetOf("git", "docker", "vim", "GraphQL", "redis")
+  currentlyLearning = mutableSetOf("golang", "building a startup from day 1"
+}
+
+```
