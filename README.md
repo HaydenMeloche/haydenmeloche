@@ -15,7 +15,7 @@ val me = Developer().apply {
       + "I mostly working within the Kotlin ecosytem, but have been getting into Go recently."
   favouriteLanguages = mutableSetOf("Kotlin", "Java", "C#", "Typescript")
   favouriteTools = mutableSetOf("git", "docker", "vim", "GraphQL", "redis")
-  currentlyLearning = mutableSetOf("golang", "building a startup from day 1"
+  currentlyLearning = mutableSetOf("golang", "how to build a startup from day 1"
 }
 
 ```
