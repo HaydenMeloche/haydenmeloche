@@ -2,7 +2,7 @@
 
 <p><em>Founding Engineer @ <a href="https://www.pine.ca">Pine 🌲</a></em></p>
 
-[![Linkedin: Hayden Meloche](https://img.shields.io/badge/-HaydenMeloche-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/HaydenMeloche/)](https://www.linkedin.com/in/HaydenMeloche/)
+[![Linkedin: Hayden Meloche](https://img.shields.io/badge/-HaydenMeloche-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/HaydenMeloche/)](https://www.linkedin.com/in/hayden-meloche/)
 [![GitHub Thaiane](https://img.shields.io/github/followers/HaydenMeloche?label=follow&style=social)](https://github.com/HaydenMeloche)
 
 ```kotlin
