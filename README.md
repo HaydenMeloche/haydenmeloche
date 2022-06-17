@@ -12,7 +12,7 @@ val me = Developer().apply {
   currentRole = "Founding Engineer"
   bio = "I'm a passionate software engineer who loves to code and constantly be learning."
     + "I work at Pine, where I joined as the first employee and am getting the chance to help build something new from nothing."
-  using = mutableSetOf("Kotlin", "Python)
+  using = mutableSetOf("Kotlin", "Python")
   favouriteTools = mutableSetOf("git", "docker", "vim", "redis")
   currentlyLearning = mutableSetOf("how to build a startup from day 1")
 }
