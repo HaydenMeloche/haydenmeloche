@@ -1,20 +1,5 @@
 ### Hi, I'm Hayden. 👋
 
-<p><em>Founding Engineer @ <a href="https://www.pine.ca">Pine 🌲</a></em></p>
+I currently work as a Founding Engineer @ <a href="https://www.pine.ca">Pine 🌲</a>
 
-[![Linkedin: Hayden Meloche](https://img.shields.io/badge/-HaydenMeloche-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/HaydenMeloche/)](https://www.linkedin.com/in/hayden-meloche/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/HaydenMeloche?label=follow&style=social)](https://github.com/HaydenMeloche)
-
-```kotlin
-
-val me = Developer().apply {
-  name = "Hayden Meloche"
-  currentRole = "Founding Engineer"
-  bio = "I'm a passionate software engineer who loves to code and constantly be learning."
-    + "I work at Pine, where I joined as the first employee and am getting the chance to help build something new from nothing."
-  using = mutableSetOf("Kotlin", "Python")
-  favouriteTools = mutableSetOf("git", "docker", "vim", "redis")
-  currentlyLearning = mutableSetOf("how to build a startup from day 1")
-}
-
-```
+I occassionaly blog: https://hayden.dev
